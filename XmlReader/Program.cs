@@ -1,7 +1,7 @@
 ﻿using System.Xml;
 using XmlReader;
 
-const string dirPath = "c:\\Users\\matej\\Desktop\\XmlReader\\Top"; //constant with the location of our directory
+const string dirPath = "..\\..\\..\\..\\Top"; //constant with the location of our directory
 List<Product> products = new List<Product>();
 string ean;
 
