@@ -20,7 +20,4 @@ foreach (string filePath in allFilePaths)
     }
 }
 
-foreach (Product product in products)
-{
-    Console.WriteLine(product);
-}
+Console.WriteLine(outcome.ToString());
